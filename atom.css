@@ -1,0 +1,128 @@
+/**
+* @title 颜色定义
+* @desc color (black,red,blue,green,white)
+*/
+.color-black{
+    color:#333;
+}
+.color-red{
+    color:#ff571a;
+}
+.color-blue{
+    color:#00aeed;
+}
+.color-green{
+    color:#37d330;
+}
+.color-white{
+    color:#fff;
+}
+/**
+* @title 背景颜色
+* @desc background (black,red,blue,green,white)
+*/
+.background-black{
+    background-color: #333;
+}
+.background-red{
+    background-color: #ff571a;
+}
+.background-green{
+    background-color: #37d330;
+}
+.background-blue{
+    background-color: #00aeed;
+}
+.background-white{
+    background-color: #fff;
+}
+/**
+* @title 字体大小
+* @desc font (12,14,16,18,20,bold)
+*/
+.font-12{
+    font-size:12px !important;
+}
+.font-14{
+    font-size:14px !important;
+}
+.font-16{
+    font-size:16px !important;
+}
+.font-18{
+    font-size:18px !important;
+}
+.font-20{
+    font-size:18px !important;
+}
+.font-bold{
+    font-weight:bold !important;
+}
+/**
+* @title 文本水平排列，text-align
+* @desc align (left,right)
+*/
+.align-left{
+    text-align: left !important;
+}
+.align-right{
+    text-align: right !important;
+}
+/**
+* @title 水平浮动
+* @desc float (left,right)
+*/
+.float-left{
+    float:left;
+}
+.float-right{
+    float:right;
+}
+/**
+ * @title 垂直对齐方式
+ * @desc vertical (top,middle,bottom)
+ */
+.vertical-top{
+    vertical-align: top;
+}
+.vertical-middle{
+    vertical-align: middle;
+}
+.vertical-bottom{
+    vertical-bottom: bottom;
+}
+/**
+ * @title 外边距10px
+ * @desc margin (left,right,top,bottom)
+ * 
+ */
+.margin-right-10{
+    margin-right:10px !important;
+}
+.margin-left-10{
+    margin-left:10px !important;
+}
+.margin-top-10{
+    margin-top:10px !important;
+}
+.margin-bottom-10{
+    margin-bottom:10px !important;
+}
+/**
+ * @title 内边距10px
+ * @desc padding (left,right,top,bottom)
+ */
+.padding-right-10{
+    padding-right:10px !important;
+}
+.padding-left-10{
+    padding-left:10px !important;
+}
+.padding-top-10{
+    padding-top:10px !important;
+}
+.padding-top-10{
+    padding-top:10px !important;
+}
+
+
