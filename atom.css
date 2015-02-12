@@ -41,55 +41,55 @@
 * @desc font (12,14,16,18,20,bold)
 */
 .font-12{
-    font-size:12px !important;
+    font-size:12px ;
 }
 .font-14{
-    font-size:14px !important;
+    font-size:14px ;
 }
 .font-16{
-    font-size:16px !important;
+    font-size:16px ;
 }
 .font-18{
-    font-size:18px !important;
+    font-size:18px ;
 }
 .font-20{
-    font-size:18px !important;
+    font-size:18px ;
 }
 .font-bold{
-    font-weight:bold !important;
+    font-weight:bold ;
 }
 /**
 * @title 文本水平排列，text-align
 * @desc align (left,right)
 */
 .align-left{
-    text-align: left !important;
+    text-align: left ;
 }
 .align-right{
-    text-align: right !important;
+    text-align: right ;
 }
 /**
 * @title 水平浮动
 * @desc float (left,right)
 */
 .float-left{
-    float:left;
+    float:left ;
 }
 .float-right{
-    float:right;
+    float:right ;
 }
 /**
  * @title 垂直对齐方式
  * @desc vertical (top,middle,bottom)
  */
 .vertical-top{
-    vertical-align: top;
+    vertical-align: top ;
 }
 .vertical-middle{
-    vertical-align: middle;
+    vertical-align: middle ;
 }
 .vertical-bottom{
-    vertical-bottom: bottom;
+    vertical-bottom: bottom ;
 }
 /**
  * @title 外边距10px
@@ -97,32 +97,32 @@
  * 
  */
 .margin-right-10{
-    margin-right:10px !important;
+    margin-right:10px ;
 }
 .margin-left-10{
-    margin-left:10px !important;
+    margin-left:10px ;
 }
 .margin-top-10{
-    margin-top:10px !important;
+    margin-top:10px ;
 }
 .margin-bottom-10{
-    margin-bottom:10px !important;
+    margin-bottom:10px ;
 }
 /**
  * @title 内边距10px
  * @desc padding (left,right,top,bottom)
  */
 .padding-right-10{
-    padding-right:10px !important;
+    padding-right:10px ;
 }
 .padding-left-10{
-    padding-left:10px !important;
+    padding-left:10px ;
 }
 .padding-top-10{
-    padding-top:10px !important;
+    padding-top:10px ;
 }
 .padding-top-10{
-    padding-top:10px !important;
+    padding-top:10px ;
 }
 
 
